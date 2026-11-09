@@ -1,0 +1,21 @@
+{
+  "name": "pi-workbuddy-plugin",
+  "version": "0.1.0",
+  "description": "WorkBuddy AI 国内版 provider for pi",
+  "license": "MIT",
+  "type": "module",
+  "private": true,
+  "pi": {
+    "extensions": ["./index.ts"]
+  },
+  "scripts": {
+    "check": "tsc --noEmit",
+    "test": "node --test test/"
+  },
+  "devDependencies": {
+    "@earendil-works/pi-ai": "1.5.0",
+    "@earendil-works/pi-coding-agent": "1.5.0",
+    "@types/node": "26.6.6",
+    "typescript": "5.9.3"
+  }
+}

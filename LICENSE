@@ -1,6 +1,10 @@
 MIT License
 
-Copyright (c) 2026 dengpeng.zuo
+Portions of this project are derived from pi-workbuddy-connect
+(https://github.com/icekale/pi-workbuddy-connect), MIT licensed.
+
+Copyright (c) icekale (pi-workbuddy-connect)
+Copyright (c) 2026 pi-workbuddy-plugin contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
